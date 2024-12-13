@@ -16,11 +16,11 @@ export const categories = [
     ]
   },
   {
-    name: 'Events',
+    name: 'yoga',
     images: [
-      'https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1437719417032-8595fd9e9dc6?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&q=80&w=800'
+      'https://drive.google.com/uc?id=1kzsuJi-VySOA5c-GlhNpiqRXedcdmHEi',
+      'https://drive.google.com/uc?id=1lM24ANDqB0--w0Ekro0hwLNAgg4fvZ_j',
+      'https://drive.google.com/uc?id=1jpS9a1ddqui8a_mizy2vrivbDt1sAwl7'
     ]
   }
 ];
