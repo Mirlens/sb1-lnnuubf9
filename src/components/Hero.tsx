@@ -3,8 +3,8 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { useSlider } from '../hooks/useSlider';
 
 const images = [
-  'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=2000',
-  'https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?auto=format&fit=crop&q=80&w=2000',
+  'file:///C:/Users/viet/Downloads/Gallery/EJS04291.jpg',
+  'https://res.cloudinary.com/demo/image/upload/c_fill,w_2000,q_80/sample.jpg',
   'https://images.unsplash.com/photo-1455156218388-5e61b526818b?auto=format&fit=crop&q=80&w=2000'
 ];
 
@@ -33,7 +33,7 @@ export const Hero = () => {
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="text-center text-white">
           <h1 className="mb-4 text-5xl font-light tracking-wide md:text-7xl">
-            Mirlens
+            MIRLENS
           </h1>
           <p className="text-xl font-light tracking-wider md:text-2xl">
             Capturing Your Coastal Memories
